@@ -2,6 +2,8 @@
 
 SKOL VIKINGS GUITAR TAB
 
+Chord Melody Version
+
 ## Code Example
 
 ```
